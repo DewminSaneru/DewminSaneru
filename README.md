@@ -4,8 +4,10 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 # 💫 About Me:
-- 🌱 I’m currently learning Blockchain<br><br> - 💬 Ask me about Java<br><br> - 📫 How to reach me dewminsaneru.2001@gmail.com<br><br> - ⚡ Fun fact Ctrl + Z is Life
-
+- 🌱 I’m currently learning Blockchain<br><br>
+- 💬 Ask me about Java<br><br>
+- 📫 How to reach me dewminsaneru.2001@gmail.com<br><br>
+-  ⚡ Fun fact Ctrl + Z is Life
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dewmin Saneru) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.Dew_min._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dewmin Pathirana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@DewminSaneru) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dewmin Saneru) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DSaneru) 
