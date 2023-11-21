@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 # 💫 About Me:
-- 🌱 I’m currently learning Blockchain<br><br>- 💬 Ask me about Java<br><br>- 📫 How to reach me dewminsaneru.2001@gmail.com<br><br>- ⚡ Fun fact Ctrl + Z is Life
+- 🌱 I’m currently learning Blockchain<br><br> - 💬 Ask me about Java<br><br> - 📫 How to reach me dewminsaneru.2001@gmail.com<br><br> - ⚡ Fun fact Ctrl + Z is Life
 
 
 ## 🌐 Socials:
